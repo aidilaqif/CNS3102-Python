@@ -13,10 +13,10 @@
       (This course covers Python syntax and usage of the built-in data structures, built-in methods and libraries. Data analysis and visualization from the web scraping, machine learning and graph theory modules are emphasized.)
 
 **CHAPTER 1: Python Basic and Syntax**
-            - Interpreted language and Python programming requirements
-            - Variables,expressions and statements
-            - Conditional execution
-            - Loops and iteration
+- Interpreted language and Python programming requirements
+- Variables,expressions and statements
+- Conditional execution
+- Loops and iteration
 
 **CHAPTER 2: Strings and Regular Expression**
             - String methods
