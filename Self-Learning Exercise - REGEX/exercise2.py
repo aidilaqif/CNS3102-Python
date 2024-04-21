@@ -7,8 +7,7 @@
 
 # Exercise 2:
 
-# Task: Provide a single-line string containing a mix of letters, digits, and special
-# characters.
+# Task: Provide a single-line string containing a mix of letters, digits, and special characters.
 # String: "The password must contain at least 8 characters and include at least one uppercase letter, one lowercase letter, and one digit."
 # Question: Write a regular expression to identify all occurrences of lowercase letters in the provided string. Explain how your regex works and why it correctly identifies the lowercase letters in the string.
 # The output would be: ['assword', 'must', 'contain', 'at', 'least', 'characters', 'and', 'include', 'at', 'least', 'one', 'uppercase', 'letter', 'one', 'lowercase', 'letter', 'and', 'one', 'digit']
