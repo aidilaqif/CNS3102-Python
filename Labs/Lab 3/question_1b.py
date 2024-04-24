@@ -19,7 +19,3 @@ with open(file_name, "r") as file:
 # Count the number of lines
 num_lines = len(lines)
 print(f"Number of lines in the file = {num_lines}")
-
-
-
-

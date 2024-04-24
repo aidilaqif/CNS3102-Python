@@ -36,5 +36,3 @@ for line in lines:
 #Print the counts
 for keyword, count in keywords_count.items():
     print(f"'{keyword}': {count}")
-
-

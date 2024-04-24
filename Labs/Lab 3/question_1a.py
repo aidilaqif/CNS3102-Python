@@ -21,7 +21,3 @@ if os.path.isfile(file_name):
     print(contents)
 else:
     print("File does not exist")
-
-
-
-
