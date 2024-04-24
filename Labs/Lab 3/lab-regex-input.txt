@@ -1,0 +1,59 @@
+Employers want to see a strong aptitude for data science in their new hires, 
+but this skill isn�t always easy to demonstrate in an interview. That�s 
+why we�ve created an extensive series discussing the importance of data 
+science and how you can increase your employability by building this skill. 
+Here, you�ll learn how to build a strong data science portfolio that 
+showcases your skills and helps you land that job.
+
+In the past few posts in this series, we�ve talked about how to build a data 
+science project that tells a story, how to build an end to end machine learning 
+project, and how to setup a data science blog. In this post, we�ll take a step 
+back, and focus on your portfolio at a high level. We�ll discuss what skills 
+employers want to see a candidate demonstrate, and how to build a portfolio 
+that demonstrates all of those skills effectively. We�ll include examples of 
+what each project in your portfolio should look like, and give you suggestions 
+on how to get started.
+
+After reading this post, you should have a good understanding of why you should 
+build a data science portfolio, and how to go about doing it.
+
+What Employers Look For
+When employers hire, they�re looking for someone who can add value to their business. 
+Often, this means someone who has skills that can generate revenue and opportunities 
+for the business. As a data scientist, you add value to a business in one of 4 main ways:
+
+Extracting insights from raw data, and presenting those insights to others.
+An example would be analyzing ad click rates, and discovering that it�s much more cost 
+effective to advertise to people who are 18 to 21 then to people who are 21 to 25 � this 
+adds business value by allowing the business to optimize its ad spend.
+
+Building systems that offer direct value to the customer.
+An example would be a data scientist at Facebook optimizing the news feed to show better 
+results to users � this generates direct revenue for Facebook because more news feed 
+engagement means more ad engagement.
+
+Building systems that offer direct value to others in the organization.
+An example would be building a script that automatically aggregates data from 3 databases 
+and generates a clean dataset for others to analyze � this adds value by making it faster 
+for others to do their work.
+
+Sharing your expertise with others in the organization.
+An example is chatting with a product manager about how to build a feature that requires 
+machine learning algorithms � this adds value by preventing unrealistic timelines, or a 
+semi-functional product.
+
+Unsurprisingly, when employers look at candidates to hire, they look at people who can 
+do one or more of the four things above (the exact ones they look at depend on the company 
+and role). In order to demonstrate that you can aid a business in the 4 areas listed above, 
+you need to demonstrate some combination of these skills:
+
+Ability to communicate
+Ability to collaborate with others
+Technical competence
+Ability to reason about data
+Motivation and ability to take initiative
+
+A well-rounded portfolio should show off your skills in each of the above areas, and be 
+relatively easy for someone to scan � each portfolio item should be well documented and 
+explained, so a hiring manager is able to quickly evaluate your portfolio.
+
